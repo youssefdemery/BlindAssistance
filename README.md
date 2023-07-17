@@ -1,5 +1,4 @@
-# BlindAssistance
-Blind Assistance: Empowering Independence and Safety
+# Blind Assistance: Empowering Independence and Safety
 
 Our blind assistance system is a groundbreaking solution designed to enhance the independence and safety of individuals with visual impairments. By leveraging cutting-edge technologies such as computer vision and machine learning, our system provides a range of valuable features tailored to the unique needs of the blind community.
 
